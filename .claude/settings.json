@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find d:/PortFolio/ -name *.html)"
+    ]
+  }
+}
